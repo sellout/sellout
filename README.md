@@ -1,16 +1,14 @@
-### Hi there 👋
-
 <!--
 **sellout/sellout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on GHC plugins & category theory modeling
+- 🌱 I’m currently learning enriched category theory and dependent type theory
+- 👯 I’m looking to collaborate on writing about functional programming
+- 💬 Ask me about freediving
+- 📫 How to reach me: [@sellout on Twitter](https://twitter.com/sellout/)
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I can hold my breath for four minutes.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sellout&count_private=true&show_icons=true)
