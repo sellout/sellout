@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning enriched category theory and dependent type theory
 - 👯 I’m looking to collaborate on writing about functional programming
 - 💬 Ask me about freediving
-- 📫 How to reach me: <a rel="me" href="https://mastodon.social/@sellout">@sellout on Mastodon.social</a>
+- 📫 How to reach me: <a rel="nofollow me" href="https://mastodon.social/@sellout">@sellout on Mastodon.social</a>
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I can hold my breath for four minutes.
 
